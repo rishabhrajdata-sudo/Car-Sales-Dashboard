@@ -21,7 +21,7 @@ An interactive Power BI dashboard analyzing car sales performance across regions
 | File | Description |
 |------|-------------|
 | `Car sales Dashboard.pbix` | Main Power BI file |
-| `Car_sales.csv` | Raw dataset |
+| `Car Sales.xlsx` | Raw dataset |
 
 ## 👤 Author
 Rishabh Raj | [LinkedIn](https://www.linkedin.com/in/rishabh-raj-b97302261/) | rishabhraj.data@gmail.com
