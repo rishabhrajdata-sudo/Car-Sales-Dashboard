@@ -1,12 +1,24 @@
 # Car Sales Dashboard 🚗
 
-An interactive Power BI dashboard analyzing car sales performance across regions, models, and time periods.
+An interactive Power BI dashboard built for a car dealership to track and analyse sales performance in real time. Enables data-driven decisions by visualizing critical KPIs across time, regions, body styles, and car companies.
 
 ## 📊 Key Insights
-- Top-selling car models by revenue and units
-- Month-over-month sales trend analysis
-- Regional performance breakdown
-- KPIs: Total Revenue, Units Sold, Avg. Selling Price, YoY Growth
+
+### Sales Overview
+- Year-to-Date (YTD) Total Sales
+- Month-to-Date (MTD) Total Sales
+- Year-over-Year (YOY) Growth in Total Sales
+- YTD vs Previous Year-to-Date (PYTD) Sales Difference
+
+### Average Price Analysis
+- YTD & MTD Average Price
+- YOY Growth in Average Price
+- YTD vs PYTD Average Price Difference
+
+### Cars Sold Metrics
+- YTD & MTD Cars Sold
+- YOY Growth in Cars Sold
+- YTD vs PYTD Cars Sold Difference
 
 ## 🛠 Tools Used
 - Power BI (DAX, Power Query)
