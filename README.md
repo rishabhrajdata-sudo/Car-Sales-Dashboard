@@ -14,7 +14,7 @@ An interactive Power BI dashboard analyzing car sales performance across regions
 - Data cleaning and transformation via Power Query
 
 ## 📸 Dashboard Preview
-![Overview](screenshots/overview.png)
+![Overview](screenshots/Overview.png)
 
 ## 📂 Files
 | File | Description |
